@@ -42,6 +42,7 @@
   <a href="https://leetcode.com/u/Aditya_Dhamanekar/"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode"  /></a>
   
   <a href="mailto:adityadhamanekar725@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  
   <a href="https://www.linkedin.com/in/aditya-dhamanekar-46630b268/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
  
 </div>
@@ -50,4 +51,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sabale-37/Sabale-37/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adityadhamanekar/adityadhamanekar/output/snake.svg" alt="Snake animation" />
