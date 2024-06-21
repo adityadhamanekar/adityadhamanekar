@@ -31,17 +31,5 @@
 </div>
 
 
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
-
-###
-
-###
-
-
-###
-
-<br clear="both">
 
  <img src="https://raw.githubusercontent.com/adityadhamanekar/adityadhamanekar/output/snake.svg" alt="Snake animation" />
