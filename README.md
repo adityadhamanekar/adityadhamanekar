@@ -1,19 +1,6 @@
 <h2 align="left">Hello there 👋! I'm Aditya Dhamanekar, a dedicated and enthusiastic programmer.</h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/adityadhamanekar/adityadhamanekar/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/adityadhamanekar/adityadhamanekar/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/adityadhamanekar/adityadhamanekar/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
 
 ###
 
