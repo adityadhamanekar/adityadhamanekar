@@ -51,4 +51,4 @@
 
 <br clear="both">
 
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adityadhamanekar/adityadhamanekar/output/github-contribution-grid-snake.svg" />
+ <img src="https://raw.githubusercontent.com/adityadhamanekar/adityadhamanekar/output/snake.svg" alt="Snake animation" />
