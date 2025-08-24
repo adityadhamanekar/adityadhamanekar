@@ -9,11 +9,12 @@
 ###
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="30" alt="C logo" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="margin-right: 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="30" alt="c logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
 </div>
+
 
 
 
