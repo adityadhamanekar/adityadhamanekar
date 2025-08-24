@@ -9,7 +9,8 @@
 ###
 
 <div align="left" style="display: flex; gap: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" height="30" alt="c logo" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" height="30" alt="c logo" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" height="30" alt="c logo" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" />
