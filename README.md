@@ -9,8 +9,7 @@
 ###
 
 <div align="left" style="display: flex; gap: 15px;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" height="30" alt="c logo" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" height="30" alt="c logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" height="30" alt="C logo" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" />
